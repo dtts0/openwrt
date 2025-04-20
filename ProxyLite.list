@@ -2,6 +2,8 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,coomer.su
+DOMAIN-SUFFIX,mitce.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -30,6 +32,3 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 
-# 国外DNS
-DOMAIN-SUFFIX,coomer.su
-DOMAIN-SUFFIX,mitce.com
