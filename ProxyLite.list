@@ -32,3 +32,4 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,coomer.su
+DOMAIN-SUFFIX,mitce.com
