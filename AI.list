@@ -3,6 +3,8 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,clau
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -23,4 +25,13 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,anthropicusercontent.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,api.anthropic.com
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude-mcp.com
+DOMAIN-SUFFIX,claude-mcp.net
+DOMAIN-SUFFIX,claudemcpclient.com
